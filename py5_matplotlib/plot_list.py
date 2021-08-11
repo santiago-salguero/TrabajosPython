@@ -9,3 +9,5 @@ while a!=1:
     a = (a*3)+1
   li.append(a)
 print(li)
+plt.plot(li)
+plt.show()
